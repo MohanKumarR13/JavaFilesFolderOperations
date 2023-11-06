@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+	<employee>
+		<id>101</id>
+		<firstName>john</firstName>
+		<lastName>john</lastName>
+		<job>engineer</job>
+		<salary>75000</salary>
+	</employee>
+
+	<employee>
+		<id>102</id>
+		<firstName>kapil</firstName>
+		<lastName>sharma</lastName>
+		<job>dev</job>
+		<salary>85000</salary>
+	</employee>
+
+	<employee>
+		<id>103</id>
+		<firstName>john</firstName>
+		<lastName>wick</lastName>
+		<job>qa</job>
+		<salary>95000</salary>
+	</employee>
+
+
+</employees>
